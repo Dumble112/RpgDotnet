@@ -1,0 +1,15 @@
+E:\Maquina Virtual\rpg\bin\Debug\net6.0\rpg.exe
+E:\Maquina Virtual\rpg\bin\Debug\net6.0\rpg.deps.json
+E:\Maquina Virtual\rpg\bin\Debug\net6.0\rpg.runtimeconfig.json
+E:\Maquina Virtual\rpg\bin\Debug\net6.0\rpg.dll
+E:\Maquina Virtual\rpg\bin\Debug\net6.0\rpg.pdb
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.csproj.AssemblyReference.cache
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.AssemblyInfoInputs.cache
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.AssemblyInfo.cs
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.csproj.CoreCompileInputs.cache
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.dll
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\refint\rpg.dll
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.pdb
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\rpg.genruntimeconfig.cache
+E:\Maquina Virtual\rpg\obj\Debug\net6.0\ref\rpg.dll
